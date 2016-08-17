@@ -1,0 +1,28 @@
+name: rowergirl
+favicon: null
+layout_spectrum: 0.9909657726529986
+typography_spectrum: 0.1285938834771514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6748931079637259
+  lightness: 0.13947191974148154
+  saturation: 0.745607836637646
+  rhythmicContrast: 0.3049646399449557
+purpose: []
